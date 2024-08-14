@@ -1,1 +1,2 @@
-# BSCS2A-GC
+# Joshua Espiritu
+# Web Developer
